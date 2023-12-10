@@ -7,11 +7,11 @@
 
 <h2>📱 Layout para tablet</h2>
 
-<img style="width: 50%" src="./assets/fokus_tablet.jpg" alt="Página do projeto Fokus para desktop">
+<img style="width: 50%" src="./assets/fokus-tablet.png" alt="Página do projeto Fokus para desktop">
 
 <h2>📱 Layout para mobile</h2>
 
-<img style="width: 50%" src="./assets/fokus_mobile.jpg" alt="Página do projeto Fokus para desktop">
+<img style="width: 50%" src="./assets/fokus-mobile.png" alt="Página do projeto Fokus para desktop">
 
 <h2>Tecnologias utilizadas</h2>
 <div style="display: flex">
