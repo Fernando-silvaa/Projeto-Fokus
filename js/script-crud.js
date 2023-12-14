@@ -95,7 +95,7 @@ function createTask(tarefa) {
     button.classList.add('app_button-edit');
     
     const editIcon = document.querySelector('img');
-    editIcon.setAttribute('src', './img/edit.png');
+    editIcon.setAttribute('src', './img/edit.svg');
 
     button.appendChild(editIcon);
 
